@@ -1,5 +1,4 @@
 ![logo](https://github.com/harika-haru/harika-haru/blob/main/github%20banner.png)
-
 <h1 align="center">Hi 👋, I'm Nakhate Harika</h1>
 <h3 align="center">A passionate developer from India</h3>
 
