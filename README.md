@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harika-haru&hide_icons=true&locale=en" alt="harika-haru" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harika-haru&" alt="harika-haru" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harika-haru&hide" alt="harika-haru" /></p>
