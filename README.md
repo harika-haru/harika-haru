@@ -6,7 +6,7 @@ Hello there! 👋 I'm Nakhate Harika, a passionate developer who loves to explor
 
 - 🔭 I’m currently working on honing my programming skills and exploring new technologies.
 - 🌱 I’m constantly learning and expanding my knowledge in the field of software development.
-- 🎓 Pursuing Btech ECE @ LBS Institute Of Technology for women's Trivandrum.
+- 🎓 Graduated Btech ECE @ LBS Institute Of Technology for Women's Trivandrum.
 
 ## GitHub Activity
 
